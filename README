@@ -1,0 +1,7 @@
+///README//
+
+To compile: use command make
+To run: ./main.exe
+
+First, enter the number of buckets for the hashtable
+Then enter a loop where the program will allow a user to continuously search for a query of words. The design of this program is to rank documents by their relevance. The relevance is determined by the frequency of each word and the number of words from the search query that are in each document.
